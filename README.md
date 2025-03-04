@@ -18,13 +18,13 @@ Repositori ini berisi progres harian saya dalam membangun kebiasaan coding produ
 
 | Hari | Status | File | Direktori | Keterangan |
 |------|--------|------|-----------|------------|
-| 1    | ✅    | [run.py](day1/run.py) | [day1/](day1/) | Memulai perjalanan! |
+| 1    | ✅    | [run.py](day1/run.py) | [day1/](day1/) | Telah selesai! |
 | 2    | ⏳    | - | - | Dalam persiapan |
 | 3    | 🔜    | - | - | Akan datang |
 | ...  | ...    | ... | ... | ... |
 
-**Legenda:**  
-✅ Terselesaikan | ⏳ Dalam Proses | 🔜 Akan Datang
+**Gambar:**  
+✅ Selesai | ⏳ Dalam Proses | 🔜 Akan Datang
 
 ## 🛠️ Struktur Direktori
 ```
